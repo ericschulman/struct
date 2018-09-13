@@ -1,2 +1,3 @@
-# code-for-UT-structural-econometrics
-struct
+# UTexas Structural Econometrics
+## HW 1
+Working on HW 1 right now...
