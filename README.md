@@ -1,3 +1,3 @@
 # UTexas Structural Econometrics
-## HW 1
-Working on HW 1 right now...
+## HW 2
+First set of HW is complete, working on the next set
