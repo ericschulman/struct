@@ -2,7 +2,7 @@
 
 The following repositiory has solutions to the problems sets for Industrial Organization (ECO384K) and Structural Econometrics (ECO388E) at the University of Texas written in python written by Eric Schulman.
 
-Below are the topics covered by the various assignments are listed below.
+Below are the topics covered by the various assignments. Generally, I branched the repository based on the assignments I was working on concurrently. The folders labeled `_io` contain the code relevant to the industrial organization class.
 
 ## Homework 1
 1. IO HW1 - Demand estimation using Nested Logit, and Logit
